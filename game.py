@@ -1,5 +1,4 @@
 import pygame
-import pygame.gfxdraw
 from my_constants import *
 import random
 import threading
