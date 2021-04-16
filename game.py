@@ -5,7 +5,6 @@ from my_constants import *
 
 pygame.init()
 surface = pygame.display.set_mode((WIDTH, HEIGHT))
-clock = pygame.time.Clock()
 
 
 class Agent:
