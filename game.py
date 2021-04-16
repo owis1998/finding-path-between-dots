@@ -1,7 +1,7 @@
 import pygame
-from my_constants import *
 import random
 import threading
+from my_constants import *
 
 pygame.init()
 surface = pygame.display.set_mode((WIDTH, HEIGHT))
